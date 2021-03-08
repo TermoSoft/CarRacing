@@ -1,0 +1,16 @@
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\bin\Debug\netcoreapp3.1\Juego Carreras.exe
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\bin\Debug\netcoreapp3.1\Juego Carreras.deps.json
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\bin\Debug\netcoreapp3.1\Juego Carreras.runtimeconfig.json
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\bin\Debug\netcoreapp3.1\Juego Carreras.runtimeconfig.dev.json
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\bin\Debug\netcoreapp3.1\Juego Carreras.dll
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\bin\Debug\netcoreapp3.1\Juego Carreras.pdb
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.csprojAssemblyReference.cache
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego_Carreras.Form1.resources
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.csproj.GenerateResource.cache
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.AssemblyInfoInputs.cache
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.AssemblyInfo.cs
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.csproj.CoreCompileInputs.cache
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.dll
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.pdb
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego Carreras.genruntimeconfig.cache
+C:\Users\Germán\Sync\Termo\Programas C#\Juego Carreras\Juego Carreras\obj\Debug\netcoreapp3.1\Juego_Carreras.Properties.Resources.resources
